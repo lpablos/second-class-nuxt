@@ -6,6 +6,13 @@
 
 <style>
 html {
+  font-family: 'Mansalva', cursive;
+}
+
+body {
+  margin: 0;
+}
+/* html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
@@ -51,5 +58,5 @@ html {
 .button--grey:hover {
   color: #fff;
   background-color: #35495e;
-}
+} */
 </style>
